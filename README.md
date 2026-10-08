@@ -6,10 +6,7 @@ A centralized web-based platform connecting NGOs, volunteers, and donors to simp
 
 ## Live Demo
 
-| Layer | URL |
-|---|---|
-| Frontend | [impacthub.vercel.app](#) — *coming soon* |
-| Backend API | [impacthub-api.onrender.com](#) — *coming soon* |
+[https://impact-hub-pi.vercel.app/] 
 
 ---
 
@@ -243,10 +240,4 @@ The full Software Requirements Specification (SRS) document is available in the 
 
 ---
 
-## Author
 
-**Aniket**<br>
-GitHub: https://github.com/MankooAniket<br>
-LinkedIn: https://linkedin.com/in/mankooaniket
-
----
